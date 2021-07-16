@@ -1,7 +1,7 @@
-This code calculates the price of a house by learing from
-training data (test files attached show matrix dimenensions and proper weight values). 
-It uses pseudo inverses along with matrix multiplication to find the
-weight of different features and ultimately apply a proper price onto the house.
+This C program calculates the price of a house using a one shot learning
+algorithm. Once training data (test files attached show matrix dimenensions and proper weight values)
+is fed, the program uses pseudo inverses and matrix multiplication to find the
+weight of different features and ultimately apply a fitting price onto the house.
 
 Weight Matrix : W = pseudoInv(X)*Y
   X = input data matrix
