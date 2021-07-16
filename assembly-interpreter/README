@@ -1,0 +1,9 @@
+This C program interprets and executes assembly
+code. It parses functions from a .asm or .txt file and uses
+simulated registers in order to mimc data flow. 
+
+The program accounts for a range of assembly functions including:
+-arithmetic
+-jumps
+-moves
+-input & output
