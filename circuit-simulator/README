@@ -1,1 +1,2 @@
-This C program simulates logic gates. 
+This C program takes a text file as input, from where it
+parses the informations (input/temp variables & logic gate type) and
