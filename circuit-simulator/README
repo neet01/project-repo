@@ -1,2 +1,6 @@
-This C program takes a text file as input, from where it
-parses the informations (input/temp variables & logic gate type) and
+This C program takes a text file as input in order to simulate
+a circuit. The text file contains input and output variables, logic gates, 
+and information as to which variables are affected by the operation at hand.
+
+The output is a truth table displayed in the terminal
+with all possible variable combinations shown.
